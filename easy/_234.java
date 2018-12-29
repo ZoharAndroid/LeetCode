@@ -19,14 +19,14 @@ public class _234 {
 	        
 	        ListNode fast = head;
 	        ListNode slow = head;
-	        while (fast.next.next != null && slow.next != null) {
+	        while (fast.next != null && fast.next.next != null  ) {
 				fast = fast.next.next;//fast每次走两个
 				slow = slow.next;//此时slow就位于中间位置
 			}
 	        
 	        ListNode reverseHead = reverse(slow.next);//将后半段链表翻转一下好进行对比
 	        ListNode firstHalfHead = head;
-	        while (reverseHead.next != null && firstHalfHead.next != null) {
+	        while (reverseHead != null && firstHalfHead != null) {
 				if (reverseHead.val != firstHalfHead.val) {
 					return false;
 				}
