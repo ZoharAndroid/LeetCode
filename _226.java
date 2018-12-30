@@ -1,4 +1,4 @@
-package easy;
+
 
 public class _226 {
 	public static void main(String[] args) {

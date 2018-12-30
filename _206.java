@@ -1,4 +1,4 @@
-package easy;
+
 
 public class _206 {
 	
