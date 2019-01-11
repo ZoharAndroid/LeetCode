@@ -10,22 +10,40 @@
 
 序号|名称|等级
 :-:|:-:|:-:
-[155](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_155.java)| |简单
-[166](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_166.java)| |简单
-[168](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_168.java)| |简单
-[167](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_167.java)| |简单
-[169](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_169.java)| |简单
-[171](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_171.java)| |简单
-[172](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_172.java)| |简单
-[189](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_189.java)| |简单
-[190](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_190.java)| |简单
-[191](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_191.java)| |简单
-[198](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_198.java)| |简单
-[202](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_202.java)| |简单
-[203](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_203.java)| |简单
-[204](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_204.java)| |简单
-[205](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_205.java)| |简单
-[206](https://gitlab.com/ZoharAndroid/leetcode/blob/master/_206.java)| |简单
+[155][155]| |简单
+[166][166]| |简单
+[168][168]| |简单
+[167][167]| |简单
+[169][169]| |简单
+[171][171]| |简单
+[172][172]| |简单
+[189][189]| |简单
+[190][190]| |简单
+[191][191]| |简单
+[198][198]| |简单
+[202][202]| |简单
+[203][203]| |简单
+[204][204]| |简单
+[205][205]| |简单
+[206][206]| |简单
+
+
+[155]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_155.java 
+[166]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_166.java
+[168]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_168.java
+[167]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_167.java
+[169]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_169.java
+[171]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_171.java
+[172]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_172.java
+[189]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_189.java
+[190]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_190.java
+[191]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_191.java
+[198]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_198.java
+[202]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_202.java
+[203]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_203.java
+[204]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_204.java
+[205]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_205.java
+[206]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_206.java
 
 
 
