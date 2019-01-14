@@ -1,4 +1,5 @@
-# LeetCode上的题目
+#LeetCode题目 ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/language-Java-brightgreen.svg)
+
 
 > 1. https://leetcode-cn.com/problemset/all/ 
 > 2. 对应的序号就是题目的标号
@@ -9,7 +10,8 @@
 
 
 序号|名称|等级
-:-:|:-:|:-:
+:-----:|:------------------------:|:-:
+[434][434]|[字符串中的单词数][434]|简单
 [429][429]|[N叉树的层序遍历][429]|简单
 [427][427]|[建立四叉树][427]|简单
 [415][415]|[字符串相加][415]|简单
@@ -31,6 +33,7 @@
 [166][166]| |简单
 [155][155]| |简单
 
+[434]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_434.java 
 [429]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_429.java 
 [155]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_155.java 
 [166]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_166.java
