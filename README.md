@@ -1,5 +1,4 @@
-# LeetCode题目 
-![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/language-Java-brightgreen.svg)
+# LeetCode题目 ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/language-Java-brightgreen.svg)
 
 
 > 1. https://leetcode-cn.com/problemset/all/ 
