@@ -10,8 +10,9 @@
 
 序号|名称|等级
 :-:|:-:|:-:
-[427][427] | [建立四叉树][427] |简单
-[415][415] | [字符串相加][415] |简单
+[429][429]|[N叉树的层序遍历][429]|简单
+[427][427]|[建立四叉树][427]|简单
+[415][415]|[字符串相加][415]|简单
 [217][217]||简单
 [206][206]| |简单
 [205][205]| |简单
@@ -30,7 +31,7 @@
 [166][166]| |简单
 [155][155]| |简单
 
-
+[429]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_429.java 
 [155]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_155.java 
 [166]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_166.java
 [168]:https://gitlab.com/ZoharAndroid/leetcode/blob/master/_168.java
