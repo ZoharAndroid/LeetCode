@@ -15,6 +15,7 @@ public class _447 {
 		 * 
 		 * @param points
 		 * @return
+		 * 执行用时：215 ms
 		 */
 	    public int numberOfBoomerangs(int[][] points) {
 	        if (points == null) {
