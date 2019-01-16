@@ -12,6 +12,7 @@
 
 序号|名称|执行用时(ms)|等级
 |:-------:|:-----------------------------:|:--:|:-:|
+[453][453]|[最小移动次数使数组元素相等][453]|11|简单
 [448][448]|[找到所有数组中消失的数字][448]|18 |简单
 [447][447]|[回旋镖的数量][447]|215|简单
 [443][443]|[压缩字符串][443]|9|简单
@@ -40,6 +41,8 @@
 [166][166]| ||简单
 [155][155]| ||简单
 
+
+[453]:https://github.com/ZoharAndroid/LeetCode/blob/master/_453.java 
 [448]:https://github.com/ZoharAndroid/LeetCode/blob/master/_448.java 
 [447]:https://github.com/ZoharAndroid/LeetCode/blob/master/_447.java 
 [443]:https://github.com/ZoharAndroid/LeetCode/blob/master/_443.java 
