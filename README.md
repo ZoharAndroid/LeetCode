@@ -12,6 +12,7 @@
 
 序号|名称|执行用时(ms)|等级
 |:-------:|:-----------------------------:|:--:|:-:|
+[459][459]|[重复的子字符串][459]|221|简单
 [458][458]|[可怜的小猪][458]|1|简单
 [455][455]|[分发饼干][455]|23|简单
 [453][453]|[最小移动次数使数组元素相等][453]|11|简单
@@ -44,6 +45,7 @@
 [155][155]| ||简单
 
 
+[459]:https://github.com/ZoharAndroid/LeetCode/blob/master/_459.java 
 [458]:https://github.com/ZoharAndroid/LeetCode/blob/master/_458.java 
 [455]:https://github.com/ZoharAndroid/LeetCode/blob/master/_455.java 
 [453]:https://github.com/ZoharAndroid/LeetCode/blob/master/_453.java 
